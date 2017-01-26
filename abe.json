@@ -1,0 +1,7 @@
+{
+  "upload": {
+    "document": "document",
+    "extensions":[".gif", ".jpg", ".jpeg", ".png", ".svg", ".mp4", ".pdf"],
+    "mimetypes": ["image/gif", "image/jpeg", "image/png", "image/svg+xml", "video/mp4", "application/pdf"]
+  }
+}
