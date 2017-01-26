@@ -21,6 +21,8 @@ In this recipe, you'll see how to use th basic types of Abe:
 # file
 Create a content based on the template file.html
 
+![Screenshot](/site/screenshot-file.png?raw=true)
+
 You can chose what types of content you can upload in your abe blog. To authorize a content type, you'll have to edit you abe.json config and update the upload section.
 ```
 "upload": {
