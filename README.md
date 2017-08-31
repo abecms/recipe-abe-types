@@ -3,7 +3,7 @@ This recipe demonstrates how to use basic types of Abe
 
 # Installation
 
-- git clone https://github.com/Abejs/recipe-abetypes.git
+- git clone https://github.com/abecms/recipe-abetypes.git
 - cd recipe-abetypes
 - abe serve -i
 - Enjoy
